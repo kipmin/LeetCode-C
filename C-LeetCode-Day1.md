@@ -4,7 +4,7 @@ date: 2018-08-07 12:10:43
 tags:
 ---
 
-### 从排序数组中删除重复项 
+### 从排序数组中删除重复项	LeetCode-26 
 
 ##### 题目
 
@@ -83,7 +83,7 @@ int removeDuplicates(int* nums, int numsSize) {
 }
 ```
 
-### 买卖股票的最佳时机 II 
+### 买卖股票的最佳时机 II	LeetCode-122 
 
 ##### 题目
 

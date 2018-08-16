@@ -4,7 +4,7 @@ date: 2018-08-08 12:00:00
 tags:
 ---
 
-### 旋转数组
+### 旋转数组	LeetCode-189
 
 #####  题目
 
@@ -85,7 +85,7 @@ void func2(int* nums, int numsSize, int k) {
 }
 ```
 
-### 存在重复 
+### 存在重复	LeetCode-217 
 
 ##### 题目
 

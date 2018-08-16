@@ -4,7 +4,7 @@ date: 2018-08-09 12:00:00
 tags:
 ---
 
-### 只出现一次的数字 
+### 只出现一次的数字	LeetCode-136 
 
 ##### 题目
 
@@ -48,7 +48,7 @@ int singleNumber(int* nums, int numsSize) {
 }
 ```
 
-### 两个数组的交集 II 
+### 两个数组的交集 II	LeetCode-350 
 
 ##### 题目
 

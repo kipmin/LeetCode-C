@@ -1,10 +1,10 @@
 ---
-title: LeetCode-Day3
+title: LeetCode-Day4
 date: 2018-08-11 12:00:00
 tags:
 ---
 
-### 加一 
+### 加一 	LeetCode-66
 
 ##### 题目
 
@@ -57,7 +57,7 @@ public:
 };
 ```
 
-### 移动零 
+### 移动零 	LeetCode-283
 
 ##### 题目
 

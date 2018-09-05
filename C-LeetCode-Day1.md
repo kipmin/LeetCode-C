@@ -1,5 +1,5 @@
 ---
-title: LeetCode-Day1
+title: C-LeetCode-Day1
 date: 2018-08-07 12:10:43
 tags:
 ---

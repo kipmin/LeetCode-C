@@ -1,5 +1,5 @@
 ---
-title: LeetCode-Day8
+title: C-plus-plus-LeetCode-Day8
 date: 2018-08-19 12:00:00
 tags:
 ---
